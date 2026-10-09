@@ -1,4 +1,9 @@
-# data-science-lab-exp01
-LAB exp. 01
-DATASET FROM KAGGLE: Kaggle is an online community of data scientists and machine learning practitioners. It provides access to public datasets, cloudbased Jupyter Notebook environments (Kaggle Kernels), and competitive data science challenges. Acquiring datasets from Kaggle is a standard practice for real-world data analysis and experimentation. 
-Project hosting on Github: GitHub is a cloud platform for software development and version control using Git. It allows researchers and developers to host code, track historical project revisions, collaborate asynchronously, and showcase project portfolios through structured repositories. 
+# Data Science and Visualisation Lab
+
+This repository contains solutions to practice questions and lab experiments for Data Science and Visualisation.
+It includes hands-on practice with Python, NumPy, and Pandas for data manipulation and analysis.
+The repository features Jupyter Notebooks and Python scripts for implementing and understanding concepts.
+It also includes datasets for performing practical data analysis tasks.
+This repository serves as a learning resource for practising data science concepts and strengthening programming skills.
+
+
